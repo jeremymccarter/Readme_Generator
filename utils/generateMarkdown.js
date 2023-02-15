@@ -39,8 +39,9 @@ ${data.description}
   ${data.contribution}
 
   ## Tests
-${data.tests}
   Please make sure to update tests as appropriate.
+${data.tests}
+ 
   
   ## License
   ${data.license}

@@ -1,22 +1,20 @@
  # README Generator
-  
+
   # Table of Contents
-  1. [Example](#example)
-  2. [Example2](#example2)
-  3. [Third Example](#third-example)
-  4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#intended-usage)
+  4. [Contributions](#contributions)
+  5. [Tests](#tests)
+  6. [License](#license)
+  7. [Questions](#questions?)
   
-  
-  ## Example
-  ## Example2
-  ## Third Example
-  ## [Fourth Example](http://www.fourthexample.com) 
 
-
+## Description
 This application will create a readme.md file for the user from the command line after answering prompts.
 
   ##  Installation
-  Install here [.....]
+   Install here [.....]
   
 
   ## Intended usage
@@ -24,14 +22,14 @@ This application will create a readme.md file for the user from the command line
    
   
   ## Contributions
-  BCS and  my tutor scott
+   BCS and  my tutor scott
 
   ## Tests
-test one test two test three test four
+  test test test baybee
   Please make sure to update tests as appropriate.
   
   ## License
-  lickety license
+   lickety license
   
   [MIT](https://choosealicense.com/licenses/mit/)
   
