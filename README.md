@@ -1,40 +1,44 @@
- # baseball
+ # README Generator
+  
+  # Table of Contents
+  1. [Example](#example)
+  2. [Example2](#example2)
+  3. [Third Example](#third-example)
+  4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+  
+  
+  ## Example
+  ## Example2
+  ## Third Example
+  ## [Fourth Example](http://www.fourthexample.com) 
 
-    Foobar is a Python library for dealing with word pluralization.
-    
-    ##  Installation
-    oaooo
-    
-    Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-    
-    bash
-    pip install foobar
-    
-    
-    ## Usage
-    undefined
-    
-    python
-    import foobar
-    
-    # returns 'words'
-    foobar.pluralize('word')
-    
-    # returns 'geese'
-    foobar.pluralize('goose')
-    
-    # returns 'phenomenon'
-    foobar.singularize('phenomena')
-    
-    
-    ## Contributing
-    
-    Pull requests are welcome. For major changes, please open an issue first
-    to discuss what you would like to change.
-    
-    Please make sure to update tests as appropriate.
-    
-    ## License
-    
-    [MIT](https://choosealicense.com/licenses/mit/)
-    
+
+This application will create a readme.md file for the user from the command line after answering prompts.
+
+  ##  Installation
+  Install here [.....]
+  
+
+  ## Intended usage
+  This should be an expedited way to create a readme file for any application.
+   
+  
+  ## Contributions
+  BCS and  my tutor scott
+
+  ## Tests
+test one test two test three test four
+  Please make sure to update tests as appropriate.
+  
+  ## License
+  lickety license
+  
+  [MIT](https://choosealicense.com/licenses/mit/)
+  
+  
+  ## Questions?
+  Feel free to contact me at: jeremymccarter27@gmail.com
+  Github: https://github.com/jeremymccarter
+  
+  
+  

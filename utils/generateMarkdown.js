@@ -13,44 +13,48 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return ` # ${data.title}
-
-  Foobar is a Python library for dealing with word pluralization.
   
+  # Table of Contents
+  1. [Example](#example)
+  2. [Example2](#example2)
+  3. [Third Example](#third-example)
+  4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+  
+  
+  ## Example
+  ## Example2
+  ## Third Example
+  ## [Fourth Example](http://www.fourthexample.com) 
+
+
+${data.description}
+
   ##  Installation
   ${data.installation}
   
-  Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-  
-  bash
-  pip install foobar
-  
-  
-  ## Usage
+
+  ## Intended usage
   ${data.usage}
+   
   
-  python
-  import foobar
-  
-  # returns 'words'
-  foobar.pluralize('word')
-  
-  # returns 'geese'
-  foobar.pluralize('goose')
-  
-  # returns 'phenomenon'
-  foobar.singularize('phenomena')
-  
-  
-  ## Contributing
-  
-  Pull requests are welcome. For major changes, please open an issue first
-  to discuss what you would like to change.
-  
+  ## Contributions
+  ${data.contribution}
+
+  ## Tests
+${data.tests}
   Please make sure to update tests as appropriate.
   
   ## License
+  ${data.license}
   
   [MIT](https://choosealicense.com/licenses/mit/)
+  
+  
+  ## Questions?
+  Feel free to contact me at: ${data.email}
+  Github: ${data.github}
+  
+  
   `
 
 

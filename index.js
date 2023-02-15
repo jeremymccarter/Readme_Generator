@@ -14,7 +14,7 @@ const questions = [
     {
         type: 'input',
         message: 'Describe your project/application:',
-        name: 'Description',
+        name: 'description',
     },
     {
         type: 'input',
@@ -24,12 +24,32 @@ const questions = [
     {
         type: 'input',
         message: 'Intended Usage of application:',
-        name: 'intendedUsage',
+        name: 'usage',
+    },
+    {
+        type: 'input',
+        message: 'Please credit contributions here:',
+        name: 'contribution',
+    },
+    {
+        type: 'input',
+        message: 'Display tests here:',
+        name: 'tests',
     },
     {
         type: 'input',
         message: 'License',
-        name: '',
+        name: 'license',
+    },
+    {
+        type: 'input',
+        message: 'Please enter your email to be displayed on page',
+        name: 'email',
+    },
+    {
+        type: 'input',
+        message: 'Please enter a link to your github profile page',
+        name: 'github',
     },
 
 
