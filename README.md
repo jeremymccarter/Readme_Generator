@@ -6,10 +6,11 @@
   1. [Description](#description)
   2. [Installation](#installation)
   3. [Usage](#intended-usage)
-  4. [Contributions](#contributions)
-  5. [Tests](#tests)
-  6. [License](#license)
-  7. [Questions](#questions?)
+  4. [Demo](#demo)
+  5. [Contributions](#contributions)
+  6. [Tests](#tests)
+  7. [License](#license)
+  8. [Questions](#questions?)
   
 
 ## Description
@@ -24,6 +25,8 @@ that is installed the user can run "node index" and the command line will fill w
   ## Intended usage
   This will help the user make a thorough and complete readme in an expedited fashion.
    
+  ## Demo
+  * [demo](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/9601cfe1-5ba3-41f9-y1f0-7b493ffa25cb)
   
   ## Contributions
   BCS and the tutoring team.
