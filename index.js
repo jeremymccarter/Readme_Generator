@@ -37,9 +37,11 @@ const questions = [
         name: 'tests',
     },
     {
-        type: 'input',
-        message: 'License',
+        type: 'list',
         name: 'license',
+        message: 'Choose one of these licenses',
+        choices:["MIT", "APACHE_2.0", "AFL-3.0", "APL-1.0", "None"],
+        
     },
     {
         type: 'input',

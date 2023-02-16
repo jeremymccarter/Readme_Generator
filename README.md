@@ -1,4 +1,6 @@
- # README Generator
+# README_Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
   # Table of Contents
   1. [Description](#description)
@@ -11,32 +13,30 @@
   
 
 ## Description
-This application will create a readme.md file for the user from the command line after answering prompts.
+This application will ask prompts that help the user create a readme for whatever application they may be working on. This will all be ran through the command line and will create the .md file on completion.
 
   ##  Installation
-   Install here [.....]
+  The user will need a text editor and the computers command line. They will also need to have node, and inquirer installed.
   
 
   ## Intended usage
-  This should be an expedited way to create a readme file for any application.
+  This will help the user make a thorough and complete readme in an expedited fashion.
    
   
   ## Contributions
-   BCS and  my tutor scott
+  BCS and the tutoring team.
 
   ## Tests
-  test test test baybee
   Please make sure to update tests as appropriate.
+  This readme itself is the test! It was made with the README_Generator.
+ 
   
-  ## License
-   lickety license
-  
-  [MIT](https://choosealicense.com/licenses/mit/)
+
+   ## License
+This project is licensed under the MIT license.
+
   
   
   ## Questions?
   Feel free to contact me at: jeremymccarter27@gmail.com
   Github: https://github.com/jeremymccarter
-  
-  
-  
