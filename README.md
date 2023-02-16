@@ -16,7 +16,9 @@
 This application will ask prompts that help the user create a readme for whatever application they may be working on. This will all be ran through the command line and will create the .md file on completion.
 
   ##  Installation
-  The user will need a text editor and the computers command line. They will also need to have node, and inquirer installed.
+The user will need a text editor and the computers command line. They will also need to have node, and inquirer installed. 
+Once the user pulls up the command line, they will need to make sure they have the proper packages installed using "node i". Once
+that is installed the user can run "node index" and the command line will fill with the proper prompts!
   
 
   ## Intended usage
