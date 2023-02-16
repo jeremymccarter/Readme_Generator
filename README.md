@@ -26,7 +26,7 @@ that is installed the user can run "node index" and the command line will fill w
   This will help the user make a thorough and complete readme in an expedited fashion.
    
   ## Demo
-  * [demo](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/9601cfe1-5ba3-41f9-y1f0-7b493ffa25cb)
+  * [Demo](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/9601cfe1-5ba3-41f9-y1f0-7b493ffa25cb)
   
   ## Contributions
   BCS and the tutoring team.
